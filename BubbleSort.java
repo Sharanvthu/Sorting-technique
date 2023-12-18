@@ -12,6 +12,7 @@ public class BubbleSort
 		for (int i : num) {
 			System.out.print(i+" ");
 		}
+		/////////////////////using swap 
 		for (int i = 0; i < size; i++) 
 		{
 			for (int j = 0; j < num.length-1; j++) 
